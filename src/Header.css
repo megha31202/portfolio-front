@@ -1,0 +1,13 @@
+.header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 10px;
+  z-index: 1000;
+}
+
+.home-icon img {
+  width: 40px; /* Adjust the size as needed */
+  height: 40px;
+  cursor: pointer;
+}
